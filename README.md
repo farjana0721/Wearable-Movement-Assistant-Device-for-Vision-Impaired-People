@@ -2,15 +2,15 @@
 
 This is my bachelor's hardware design project. The project was completed along with my partner Moin Shahriyar and Sarhan Osman Bhuiya under the supervision of our professor Zunayeed Bin Zahir. <br> <br>
 
-** The main aim of our project is to present an omnidirectional sonar vision device that can assist visually impaired individuals **
+**The main aim of our project is to present an omnidirectional sonar vision device that can assist visually impaired individuals**
 
-** Code can be found under the Code Named folder **
+**Code can be found under the Code Named folder**
 
-** Block Diagram **
+**Block Diagram**
 
 ![ss1](https://github.com/farjana0721/Wearable-Movement-Assistant-Device-for-Vision-Impaired-People/blob/main/ss1.PNG)
 
-** Mechanism **
+**Mechanism**
 
 - There will be a wearable hat with sonar in eight direction which will cover 360˚. 
 -	The sensors will be in such angle so that there will be created a circle of ultrasonic waves around the user which will cover from his neck to toe. 
@@ -24,3 +24,4 @@ This is my bachelor's hardware design project. The project was completed along w
 -	Most importantly as our sensors will be placed in an angle so that the app will be able to take base range for the sonar automatically. May be 30 sec of standing still after giving voice command for example: “Set my base range”. 
 -	There could be one question “What will happen if the user sits after activating the project as there is a vibration function for middle range?”
 -	Yeah there will be a command for that, like if the user say “I am sitting right now” the vibration will be turned off.
+  
